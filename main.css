@@ -1,0 +1,45 @@
+@font-face {
+    font-family: this;
+    src: url(This-Regular.otf)
+}
+
+h1,
+h2 {
+    font-family: 'this';
+    text-align: center;
+    margin: auto;
+    letter-spacing: .1rem;
+}
+
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.head1,
+.head2 {
+    padding: 1rem;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  section{
+    height: 100vh;
+    background: rgb(243, 236, 229);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  svg{
+    cursor: pointer;
+  }
