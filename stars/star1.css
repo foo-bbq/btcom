@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    background: rgb(243, 236, 229);
+    font-family: 'times';
+    letter-spacing: .1rem;
+}
+.lj {
+    text-align: left;
+    position: relative;
+    left: 20%;
+}
+#column {
+    margin: auto;
+    width: 80%;
+    padding: 5rem 0;
+    /* border: 1px solid red; */
+}
+h1 {
+    font-family: 'this';
+    padding-bottom: 3rem;
+}
